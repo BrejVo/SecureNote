@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wnbXWnyY5lIE5lNIoyV8LduJhvvdFllRAupnhF2o8wA=",
+  "Source": "SecureNotesApi",
+  "BasePath": "_content/SecureNotesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
